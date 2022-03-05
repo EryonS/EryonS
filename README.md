@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eryon</h1>
-<h3 align="center">A FullStack JS Developper and more !</h3>
+<h3 align="center">A Full-Stack JS Developper and more !</h3>
 
 - 💬 Ask me about **Angular, NestJS, MongoDB**
 
