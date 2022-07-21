@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/LSchilling">
-    <img src="https://api.daily.dev/devcards/40dca17209aa426d87321c6077eb385d.png?r=eid" width="400" alt="Lucas SCHILLING's Dev Card"/>
+    <img src="https://github.com/EryonS/EryonS/blob/master/devcard.svg" width="400" alt="Lucas SCHILLING's Dev Card"/>
   </a>
 </div>
 
