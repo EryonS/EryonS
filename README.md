@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eryon</h1>
 <h3 align="center">A Full-Stack JS Developper and more !</h3>
 
+<div align="center">
+  <a href="https://app.daily.dev/LSchilling">
+    <img src="https://api.daily.dev/devcards/40dca17209aa426d87321c6077eb385d.png?r=eid" width="400" alt="Lucas SCHILLING's Dev Card"/>
+  </a>
+</div>
+
 - 💬 Ask me about **Angular, NestJS, MongoDB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lucas-schilling-39927414b/**
