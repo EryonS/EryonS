@@ -7,7 +7,7 @@
   </a>
 </div>
 
-- 💬 Ask me about **Angular, NestJS, MongoDB**
+- 💬 Ask me about **Angular, NestJS, NextJS, React Native, MongoDB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lucas-schilling-39927414b/**
 
