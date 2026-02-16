@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eryon</h1>
 <h3 align="center">A Full-Stack JS Developper and more !</h3>
 
+<!--
 <div align="center">
   <a href="https://app.daily.dev/LSchilling">
     <img src="https://github.com/EryonS/EryonS/blob/main/devcard.svg" width="400" alt="Lucas SCHILLING's Dev Card"/>
   </a>
 </div>
+-->
 
 - 💬 Ask me about **Angular, NestJS, NextJS, React Native, MongoDB**
 
