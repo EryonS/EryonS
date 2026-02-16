@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lucas-schilling-39927414b/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-schilling-39927414b/overlay/1635454320718/single-media-viewer/](https://www.linkedin.com/in/lucas-schilling-39927414b/overlay/1635454320718/single-media-viewer/)
-
 - ⚡ Fun fact **Even in cloudy weather i can bring you sun**
 
 <h3 align="left">Connect with me:</h3>
